@@ -39,6 +39,11 @@ epoch = 2.5
 path = 'contracts/vault_with_increment_or_decrement.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.vote_delegation]
+path = 'contracts/vote_delegation.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
