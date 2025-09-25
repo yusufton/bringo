@@ -30,6 +30,11 @@ path = 'contracts/fund_distribution.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.multi_send_with_custom_fee_per_transfer]
+path = 'contracts/multi_send_with_custom_fee_per_transfer.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.multi_token_wallet]
 path = 'contracts/multi_token_wallet.clar'
 clarity_version = 2
